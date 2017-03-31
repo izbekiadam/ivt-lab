@@ -26,7 +26,11 @@ As this is a really simple project, you can use the command-line build tool and 
 
 ## Overview
 
+<<<<<<< HEAD
 The project represents an beta version of a spaceship.
+=======
+The project represents an delta version of a spaceship.
+>>>>>>> branch-B
 
 - The ship (`SpaceShip` interface) can fire one or more lasers or torpedos.
 - We have only one spaceship as of now (`GT4500`).
